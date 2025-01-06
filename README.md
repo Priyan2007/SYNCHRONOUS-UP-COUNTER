@@ -40,14 +40,14 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 
 ### **PROGRAM**
-
-![Screenshot 2024-12-25 201539](https://github.com/user-attachments/assets/91e2247d-02af-4528-8cae-61912c525983)
+![image](https://github.com/user-attachments/assets/6af00c52-503f-480b-a9c5-10e7a4485608)
 
 ### **RTL LOGIC UP COUNTER**
-![Screenshot 2024-12-25 201524](https://github.com/user-attachments/assets/ecd3c834-d13e-4b75-9d35-dd74cae75a82)
+![image](https://github.com/user-attachments/assets/09b17daf-30a3-45fd-b277-9b90b56e6402)
+
 
 ### **TIMING DIAGRAM FOR IP COUNTER**
-![UP COUNTER](https://github.com/user-attachments/assets/2a95ca7c-536c-412b-9e6d-41e2abb4718b)
+![image](https://github.com/user-attachments/assets/f88e1377-7486-4058-bef1-d28d39ba740b)
 
 ### **TRUTH TABLE**
 ![UP COunter tt](https://github.com/user-attachments/assets/a9330d87-ae05-42c7-a635-a7f49c91101a)
